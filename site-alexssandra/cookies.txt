@@ -1,0 +1,4 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+#HttpOnly_.psialexssandraalves.com.br	TRUE	/	FALSE	1795527148	__cf_bm	FRQ9TVKYQRe6R4bxE9VzAB90S2z37ZdXQAcXovRQ6L0-1795525347.437766-1.0.1.1-_Dh8DIS.Fe2DxlwOYJN4j4GX6bcN3QaJroLd3MhpHmQxdlUC3w3pbVALb6f0L0_DRlI2fNj1jf4U9JdihbedVktO_Fccz10vl5HPUp5t6Ouj8asf4fPwtTlNCqdeLRSy
+#HttpOnly_.lovable.dev	TRUE	/	TRUE	1795527149	__cf_bm	EZYK4dXqqgov5PuCSU6F2PJlOz.wEK6wQ2_yCDgGvW0-1795525349.9799197-1.0.1.1-XNzvf7y7igw.q1JR9x4S49jM4vGk35zEgrymbd4jaFoH4pgOmSFGr31xPdOE3Ge7gDgnq5vzfG_cnxgP.VgNsFmu.sbydI1epqpewK2VuD_kX0iZ_OBSOZljHw2K4vQ_
